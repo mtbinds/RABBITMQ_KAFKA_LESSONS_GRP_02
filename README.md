@@ -18,8 +18,6 @@
   - [Partie pratique](./00_RabbitMQ_LESSONS/PARTIE_PRATIQUE/) 
 
     - [Partie TP](./00_RabbitMQ_LESSONS/PARTIE_PRATIQUE/TP.md)  
-    
-    Coming Soon
 
       - [Solutions](./00_RabbitMQ_LESSONS/PARTIE_PRATIQUE/SOLUTIONS/)
 
