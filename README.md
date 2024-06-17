@@ -15,12 +15,12 @@
     - [Partie 00](./00_RabbitMQ_LESSONS/PARTIE_THEORIQUE/PARTIE_00.md)
     - [Partie 01](./00_RabbitMQ_LESSONS/PARTIE_THEORIQUE/PARTIE_01.md)
 
-  Coming Soon  
-
   - [Partie pratique](./00_RabbitMQ_LESSONS/PARTIE_PRATIQUE/) 
 
     - [Partie TP](./00_RabbitMQ_LESSONS/PARTIE_PRATIQUE/TP.md)  
     
+    Coming Soon
+
       - [Solutions](./00_RabbitMQ_LESSONS/PARTIE_PRATIQUE/SOLUTIONS/)
 
   - [Partie Projet](./00_RabbitMQ_LESSONS/PARTIE_PROJET/PROJECT.md)
