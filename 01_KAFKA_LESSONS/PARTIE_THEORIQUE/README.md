@@ -48,7 +48,7 @@
 
 ## Pour commencer
 
-### Choix (0) Lancer ***Kafka*** sans (GUI)
+### Choix (A) Lancer ***Kafka*** sans (GUI)
 
 1. Lancer ***kafka*** depuis les binaries : 
 
