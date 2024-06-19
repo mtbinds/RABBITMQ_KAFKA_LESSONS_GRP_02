@@ -23,12 +23,13 @@
 
   - [Partie Projet](./00_RabbitMQ_LESSONS/PARTIE_PROJET/PROJECT.md)
 
-Coming Soon 
 
 - [Partie 01 : Apache Kafka (15 heures)](./01_KAFKA_LESSONS/)
 
   - [Partie théorique](./01_KAFKA_LESSONS/PARTIE_THEORIQUE/README.md)
-    
+
+  Coming Soon       
+  
   - [Partie pratique](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/README.md) 
   
   - [Partie TP](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/TP/README.md)
