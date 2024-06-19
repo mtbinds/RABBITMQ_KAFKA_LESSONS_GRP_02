@@ -115,6 +115,8 @@ docker-compose up
 
 ### Une fois vous avez lancé Kafka, exportez les variables d'environnement
 
+Vous pouvez exporter les variables d'environnement depuis la racine de votre conteneur ***Docker*** ou depuis la racine de votre ***Système Linux/MacOS *** 
+
 ```bash
 export BROKER=127.0.0.1
 export TOPIC=test_lololo
