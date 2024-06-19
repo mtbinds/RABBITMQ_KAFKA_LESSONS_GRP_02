@@ -29,6 +29,10 @@
   - [Partie théorique](./01_KAFKA_LESSONS/PARTIE_THEORIQUE/README.md)       
   
   - [Partie pratique](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/README.md) 
+
+Coming soon
+
+  - [Partie TP (noté)](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/TP/README.md)
   
 
 ### **Good Luck 🙂**
