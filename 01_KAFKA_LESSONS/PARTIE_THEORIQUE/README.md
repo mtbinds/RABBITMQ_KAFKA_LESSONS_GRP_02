@@ -108,7 +108,7 @@ docker compose up -d
 1. Clonez le répertoire ***Kafdrop***
 
 ```bash
-git clone https://github.com/obsidiandynamics/kafdrop.git && cd docker-compose/kafka-kafdrop
+git clone https://github.com/obsidiandynamics/kafdrop.git && cd docker-compose/kafka-kafdrop && \
 docker-compose up
 ```
 2. L'interface est accessible sur le port ***9000*** : http://localhost:9000
