@@ -26,13 +26,9 @@
 
 - [Partie 01 : Apache Kafka (15 heures)](./01_KAFKA_LESSONS/)
 
-  - [Partie théorique](./01_KAFKA_LESSONS/PARTIE_THEORIQUE/README.md)
-
-  Coming Soon       
+  - [Partie théorique](./01_KAFKA_LESSONS/PARTIE_THEORIQUE/README.md)       
   
   - [Partie pratique](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/README.md) 
   
-  - [Partie TP](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/TP/README.md)
-
 
 ### **Good Luck 🙂**
