@@ -255,7 +255,7 @@ class KafkaSource:
       bootstrap_servers=f'{host}:{port}')
 
   def ingest(self):
-    for datum in self.source:
+    for datum in self.consumer:
       print(f"Receiived {datum}, yay")
 
 
