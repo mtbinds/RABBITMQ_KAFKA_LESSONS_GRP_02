@@ -30,9 +30,7 @@
   
   - [Partie pratique](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/README.md) 
 
-Coming soon
-
-  - [Partie TP (noté)](./01_KAFKA_LESSONS/PARTIE_PRATIQUE/TP/README.md)
+  - [Partie TP (noté)](./01_KAFKA_LESSONS/PARTIE_TP/README.md)
   
 
-### **Good Luck 🙂**
+### **Good Luck** 🙂
